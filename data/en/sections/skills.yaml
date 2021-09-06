@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Skillsets
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Programming Skills
+  summary: "Experienced programming knowledge in languages: C, C++, Java, Python, Dart, Go, MATLAB, Javascript, HTML5, and CSS."
+
+- name: Project Management Skills
+  summary: "Experienced in project management strategies, using Power BI for data analysis and generating interactive dashboards.  Expertise in using Excel spreadsheets, Microsoft Word, PowerPoint, Prezi, and Outlook."
+
+- name: Business Skills
+  summary: "Trained in economic project evaluation, reading financial reports, and financial analysis.  Including experience in composing technical / engineering / business proposal reports, data entry and database organization."
+
+- name: Computer Networking
+  summary: "Can create reliable data transfer protocols using Python socket libraries (UDP), complete with a simple web server user interface.  Understanding of TCP implementation such as: error control, flow control, congestion control.  Knowledge of network flow algorithms and network infrastructures."
+
+- name: Linux & Unix OS
+  summary: "Experienced in operating system structure desgins, concurrent programming techniques, CPU scheduling, multi-threading, system calls, memory management, and command line scripting in the Linux environment."
+
+- name: Mobile App Development
+  summary: "Experienced in using Flutter and programming with Dart to create fullstack native IOS and Android mobile applications, complete with RESTful API integration and user authentification."
+
+- name: Web Development
+  summary: "Experienced in designing and creating sleek static websites using HTML5, CSS, Bootstrap, React, and Javascript.  Includes skills in both frontend and backend development."
+
+- name: Machine Learning
+  summary: "Knowledgable in data science / machine learning libraries such as Sklearn, Pandas, Numpy and PyTorch.  Trained in supervised and unsupervised algorithmic development, statistical pattern recognition, parametric / non-parametric pattern classification techniques, and ML pattern analysis recognition approaches."
+
+- name: UI & UX Development
+  summary: "Experienced in creating beautiful UI and interactive UX, trained in Agile development methods and worked on complex software application design projects for enterprises."
+
+- name: Software Testing
+  summary: "Experienced in writing test code for software using JUnit and employing testing techniques such as boundary testing, structural testing, model-based testing, design-by-contracts, property based testing, as well as coding with test driven development strategies (TDD) and mocking."
+
+- name: Algorithms & Data Structures
+  summary: "Understanding of various data structures, implementation of binary search trees and AVL trees, divide and conquer algorithms, graphing algorithms, dynamic programming methods and hashing techniques.  Familiarity with Bellman Ford, Dijkstra, Kruskal, Floyd Warshall, Ford Fulkerson and Topological algorithms."
+
+- name: Software Evolution
+  summary: "Knowledgable in long term software maintenance/evolution for large-scale, long-lived software systems.  Includes experience in analyzing and mining software repositories, object oriented reengineering, the migration of legacy information systems, reverse engineering of software projects, and software architectural transformations."

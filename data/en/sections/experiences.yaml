@@ -1,0 +1,80 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+- company:
+    name: Canadian Border Services Agency
+    url: "https://www.cbsa-asfc.gc.ca/menu-eng.html"
+    location: Abbotsford BC
+    overview: The Canada Border Services Agency is a federal law enforcement agency that is responsible for border control, immigration enforcement, and customs services in Canada.
+  positions:
+  - designation: Administrative Assistant
+    start: MAY 2018
+    end: AUG 2018
+    responsibilities:
+    - In charge of scheduling, digital communications and administrative operations for one of the largest Canadian Border Services Agency port-of-entry in western Canada.
+    - Assisted management with administrative tasks and procurement documentation, including supervising over the staffing department and the port’s commercial records.
+    - Coordinated scheduling of officers’ overtime and leaves for the entire port of entry as well as out-of-port officer delegations.
+    - Managed data entry into registers and forms, including local as well as regional CBSA databases.
+    - Developed advanced detail oriented management, individual project management and administrative skill sets approved by federal public service professional standards.
+
+- company:
+    name: Canadian Department of National Defence
+    url: "https://www.forces.gc.ca/"
+    location: Victoria Esquimalt BC
+    overview: DND supports the Canadian Armed Forces who serve on the sea, on land, and in the air with the Navy, Army, Air Force and Special Forces to defend Canadians’ interests at home and abroad.
+  positions:
+  - designation: Surveillance Combat Systems Engineering Intern
+    start: JAN 2019
+    end: APR 2019
+    responsibilities:
+    - Engineered an electronic warfare software system to generate corrective coefficients for calibrating the electronic support measures suite (ELISRA) used for RADAR detection on Canadian warships.
+    - Improved the efficiency of calibration trials for ELISRA by eliminating over 40 hours of manual data processing for engineering technicians to under 5 hours of software data processing.
+    - Individually responsible for designing, programming, prototyping and troubleshooting the ELISRA calibration software from concept to product.  
+    - Produced software (ELISRA Calibrator) generates visualizations and calibration coefficients that assists the electronic support measures suite’s in detecting vessels through RADAR emissions.
+    - Programmed the software backend using MATLAB and frontend using MATLAB AppDesigner.
+    - Completed software will be deployed to both the Pacific and Atlantic Canadian naval fleets.
+    - Involved in the co-op student hiring process for the naval architecture engineering sector.
+    - Published an engineering recommendation and technical report with regards to improving the calibration of the electronic support measures suite as well as a user and maintenance manual for the ELISRA Calibrator software.
+
+- company:
+    name: Babcock Canada
+    url: "https://babcockcanada.com/"
+    location: Victoria BC
+    overview: Babcock provides vital services and technology and support solutions for assets of national importance in the defence, emergency services, and civil nuclear domains.
+  positions:
+  - designation: Security and Information Assurance Engineering Intern
+    start: SEP 2019
+    end: DEC 2019
+    responsibilities:
+    - Evaluated and designed the software web application and database infrastructure for the security and information assurance department at Babcock Canada.  
+    - Devised and implemented strategies to improve operational security processes through proposal of a software solution presented in a feasibility and software web application design report. 
+    - Worked with management and consultation firms on coordinating the implementation of a centralized physical security system for Babcock offices across Canada.  
+    - Created data analytics for security incident reports via Power BI, Excel and python libraries.  
+    - Created a presentation from visualizations obtained from data analysis to be presented to upper management in the company.  
+    - Created a project management tool in Excel for the security department to increase productivity, produce data analytics, and organize projects based on priority and sector.
+    - Researched and assembled together the annual corporate reports and evidence packs for the company’s Information Assurance Maturity Model and Business Continuity Framework.
+
+- company:
+    name: University of Victoria Industry Partnerships
+    url: "https://www.uvic.ca/"
+    location: Victoria BC
+    overview: Develops a framework to secure intellectual property for cutting edge research, assist with exploring and applying for funding opportunities, and connecting the right individuals to bring technology to commercialization.
+  positions:
+  - designation: Business Development Assistant
+    start: JAN 2020
+    end: APR 2020
+    responsibilities:
+    - Analyzed intellectual property patents filed by university researchers regarding software technologies for managing data center fine grain power consumption.  
+    - Researched companies worldwide with potential interests in pursuing an industry partnership with UVic researchers.
+    - Gathered information and multiple executive contacts for each of 120 companies determined as potential stakeholders on the IP patent.  
+    - Created technical briefings on new software and computer engineering inventions.  

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: RDP with Simple Web Server
+  role: Creator
+  timeline: "Nov 2020 - Dec 2020"
+  repo: https://github.com/NZ369/SWSwithRDP
+  summary: Creation of a simple web server (SWS) framework following the HTTP protocol to transfer files through reliable datagram protocol (RDP) implemented via UDP.
+  tags: ["academic", "linux", "networking"]
+
+- name: Linux Process Manager
+  role: Creator
+  timeline: "Sep 2020 - Oct 2020"
+  repo: https://github.com/NZ369/LinuxProcessManager
+  #url: ""
+  summary: A process manager called PMan (custom linux shell) that supports running and managing background processes running on the operating system.
+  tags: ["academic", "linux", "c"]
+
+- name: Motif Finder
+  role: Creator
+  timeline: "Jan 2020 - Feb 2020"
+  repo: https://github.com/NZ369/MotifFinder
+  summary: A transcription factor regulates a gene by binding to a specific DNA interval called a regulatory motif, or transcription factor binding site, in the gene’s upstream region, a 600-1000 nucleotide-long region preceding the start of the gene.  This program finds that region when given the genomic sequence.
+  tags: ["hobby", "python", "bioinformatics"]
+
+- name: Neptune Bank Website
+  role: Developer
+  timeline: "May 2021 - Aug 2021"
+  repo: https://github.com/NZ369/NeptuneBank
+  summary: A fully functioning banking web application complete with DevOps pipelines and automated testing.
+  tags: ["academic", "java", "devops"]
+
+- name: Airline Checkin Simulator
+  role: Creator
+  timeline: "Oct 2020 - Nov 2020"
+  repo: https://github.com/NZ369/AirlineCheckinSimulator
+  summary: A simulation of an airline check in system using concurrent programming, implemented with POSIX pthread library.
+  tags: ["academic", "c", "concurrent"]

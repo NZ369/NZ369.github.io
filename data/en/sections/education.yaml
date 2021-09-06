@@ -1,0 +1,166 @@
+# section information
+section:
+  name: Education & Certifications
+  id: education
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+degrees:
+- name: Bachelor of Software Engineering
+  icon: fa-university
+  timeframe: 2018-2022
+  institution:
+    name: University of Victoria
+    url: "https://www.uvic.ca/"
+  grade:
+    scale: Overall Percentage
+    achieved: 80%
+    outOf: 100%
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Calculus I
+      achieved: A-
+    - name: Calculus II
+      achieved: A
+    - name: Calculus III
+      achieved: B+
+    - name: Calculus IV
+      achieved: A-
+    - name: Artificial Intelligence
+      achieved: A
+    - name: Probability and Statistics
+      achieved: A+
+    - name: Linear Algebra
+      achieved: A
+    - name: Algorithms and Data Structures
+      achieved: A-
+    - name: Discrete Mathematics
+      achieved: A-
+    - name: Software Testing
+      achieved: A-
+    - name: Software Evolution
+      achieved: A-
+    - name: Software Quality Assurance
+      achieved: A+
+    - name: Software Development Methods
+      achieved: B
+    - name: Real Time Computer Systems Design
+      achieved: A
+    - name: Operating Systems
+      achieved: A
+    - name: Embedded Systems
+      achieved: A-
+    - name: Cyber-System Security 
+      achieved: A-
+    - name: Distributed Computing
+      achieved: A+
+    - name: Computer Communication and Networks
+      achieved: B+
+    - name: Data Analysis and Pattern Recognition
+      achieved: B+
+    - name: Security Engineering
+      achieved: In Progress
+    - name: Software Architecture and Design
+      achieved: In Progress
+    - name: Design and Analysis of Computer Networks
+      achieved: In Progress
+    - name: Database Systems
+      achieved: In Progress
+  extracurricularActivities:
+  - Canadian International Council (CIC) student member
+  - Engineers and Geoscientists of British Columbia student member
+  - UVic Women in Science & Engineering Club
+  - UVic Satellite Design Club
+  - UVic Public Speaking and Presentation Club
+  - UVic Social and Political Science Club
+
+- name: Government of Canada Enhanced Reliability Status
+  icon: fa-id-badge
+  timeframe: 2020 - 2029
+  institution:
+    name: Government of Canada
+    url: "https://www.canada.ca/"
+
+- name: Government of Canada Controlled Goods Clearance
+  icon: fa-id-badge
+  timeframe: 2020 - 2024
+  institution:
+    name: Government of Canada
+    url: "https://www.canada.ca/"
+
+- name: Government of Canada Secret Clearance II
+  icon: fa-id-badge
+  timeframe: 2020 - 2024
+  institution:
+    name: Government of Canada
+    url: "https://www.canada.ca/"
+
+- name: Military First Aid, AED and CPR III certification
+  icon: fa-first-aid
+  timeframe: 2020 - 2025
+  institution:
+    name: Government of Canada
+    url: "https://www.canada.ca/"
+
+- name: Professional Certifications
+  icon: fa-building
+  timeframe: 2019
+  institution:
+    name: Canada School of Public Service
+    url: "www.csps-efpc.gc.ca"
+  grade:
+    scale: Overall Percentage
+    achieved: 100%
+    outOf: 100%
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: WHMIS 2015 certification
+      achieved: Completed
+    - name: Introduction to Project Management
+      achieved: Completed
+    - name: Project Management Methodologies and Processes
+      achieved: Completed
+    - name: Project Management Policy, Roles and Responsibilities 
+      achieved: Completed
+    - name: Comprehending Financial Statements 
+      achieved: Completed
+    - name: Financial Management Control Frameworks
+      achieved: Completed
+    - name: Financial Management Systems
+      achieved: Completed
+    - name: Financial Statement Analysis
+      achieved: Completed
+    - name: Fundamentals of Information Management
+      achieved: Completed
+    - name: Big Data Fundamentals
+      achieved: Completed
+    - name: Accessing An Organization’s Risks
+      achieved: Completed
+    - name: Developing An Effective Business Case
+      achieved: Completed
+    - name: Project Management Policy, Roles and Responsibilities 
+      achieved: Completed
+
+- name: Dogwood Diploma
+  icon: fa-school
+  timeframe: 2011-2015
+  institution:
+    name: Dawson Creek Secondary School
+    url: "https://www.sd59.bc.ca/schools/dawson-creek-secondary-south-peace"
+  grade:
+    scale: Overall Percentage
+    achieved: 97%
+    outOf: 100%
+  extracurricularActivities:
+  - Valedictorian of 2015 Graduation Class
+  - Schulich Scholarship Candidate
+  - Recipient of James R Hoffa Memorial Scholarship
+  - International Rotary Club
+  - Student Council Founder and President

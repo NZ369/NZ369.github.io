@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+university:
+  name: University of Victoria
+  url: "https://www.uvic.ca"
+
+# a summary about you
+summary: "I am a 4th year software engineering student interested in machine learning projects and cybersecurity.  I have previously interned at the Canadian Department of National Defense and Babcock International.  Along my technical capabilities I am entrepreneurial and curious, I am always excited to learn new skills!"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/NZ369"
+- name: LinkedIn
+  icon: "fab fa-linkedin-in"
+  url: "https://www.linkedin.com/in/nina-zhang-68648b106/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Professional
+  percentage: 100
+  color: blue
+- name: Collaborative
+  percentage: 100
+  color: green
+- name: Innovative
+  percentage: 100
+  color: sky
+- name: Resourceful
+  percentage: 100
+  color: pink
+- name: Driven
+  percentage: 100
+  color: orange
+- name: Reliable
+  percentage: 100
+  color: yellow
