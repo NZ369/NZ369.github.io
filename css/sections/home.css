@@ -15,7 +15,7 @@
   background-position: center;
   transform: scale(1.1);
   filter: blur(3px);
-  background-color: black;
+  background-image: url("default-background.png");
   background-size: cover;
 }
 
