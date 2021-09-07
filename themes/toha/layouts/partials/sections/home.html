@@ -16,6 +16,7 @@
 {{ end }}
 
 {{ $backgroundImage:= "/images/default-background.png" }}
+{{ $backgroundImage := $backgroundImage.Fit "148x200" }}
 
 {{ $authorImage:= "/images/default-avatar.png" }}
 {{ if $author.image }}
