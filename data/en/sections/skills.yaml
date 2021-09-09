@@ -47,3 +47,6 @@ skills:
 
 - name: Software Evolution
   summary: "Knowledgable in long term software maintenance/evolution for large-scale, long-lived software systems.  Includes experience in analyzing and mining software repositories, object oriented reengineering, the migration of legacy information systems, reverse engineering of software projects, and software architectural transformations."
+
+- name: Requirements Engineering
+  summary: "Experienced in efficiently understanding and analyzing clients’ problems.  Knowledgeable on techniques for requirements elicitation, discovery, negotiation, documentation and risk management.  Knowledgeable on designing and prototyping a solution using an optimized software methodology to successfully address the problem.  Educated on modern requirements engineering techniques and their applications in diverse development and organizational contexts."
