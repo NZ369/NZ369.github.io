@@ -11,4 +11,4 @@ So, put on your thinking caps and get ready to embark on a journey that promises
 Sincerely,
 me & ChatGPT & Dragons
 
-![Image of dragons](images/dragons.png)
+![Image of dragons](images/onyx_DRAGON_1.png)
