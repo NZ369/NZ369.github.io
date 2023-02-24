@@ -1,4 +1,4 @@
-## AI & Dragons
+## AI and Dragons
 
 Welcome to the world of machine learning and artificial intelligence, where the impossible becomes possible and the limits of what we can achieve are constantly being pushed. As I delved deeper into this mesmerizing field, I was awestruck by the incredible potential of these cutting-edge technologies.
 
@@ -11,4 +11,4 @@ So, put on your thinking caps and get ready to embark on a journey that promises
 Sincerely,
 me & ChatGPT & Dragons
 
-![Image of fast.ai logo](images/logo.png)
+![Image of dragons](images/dragons.png)
