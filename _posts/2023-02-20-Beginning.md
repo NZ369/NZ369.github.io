@@ -1,6 +1,6 @@
 Hi there! I'm excited to share that I'm starting the fast.ai course to learn about artificial intelligence and deep learning. As someone who is interested in technology and the impact it has on society, I'm eager to gain a deeper understanding of how AI works.
 
-I do have some intermediate coding experience in Python, which I think will be helpful. However, I'm still a bit nervous about the course's recommended familiarity with Git and Jupyter Notebooks. I'm hoping that the course's instructions for setting up my environment will be straightforward enough for me to follow.
+While I am experienced in coding with Python, which I think will be helpful.  I'm still a bit nervous about the course's recommended familiarity with Git and Jupyter Notebooks. I'm hoping that the course's instructions for setting up my environment will be straightforward enough for me to follow.
 
 I'm planning to start with Part 1 of the course, which covers the fundamentals of deep learning. I'm excited to learn about neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and natural language processing (NLP). Although I'm not sure yet how to apply these concepts, I'm looking forward to discovering how deep learning can be used to solve real-world problems.
 
